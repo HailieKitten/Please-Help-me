@@ -1,0 +1,2 @@
+# Please-Help-me
+im trying to log into my server, but whenever i try it says this can you please help me, and tell me how i can fix it. i serched online and i couldnt understand internal exception: com.google.common.util.concurrent.UnchededExecutionException: java.lang.IllegalStateException: Recipe minecraft:Wheat (net.minecraft.item.crafting.shapedrecipes@1d7f7962) Produces unregistered item minecraft:wheat (net.minecraft.item.Item@8f4b803)
